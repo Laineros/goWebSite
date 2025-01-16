@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Avksenchik/golang-project-template/internal/app"
+	"github.com/Laineros/goWebSite/internal/app"
 )
 
 func main() {

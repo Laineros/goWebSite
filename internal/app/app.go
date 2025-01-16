@@ -1,7 +1,9 @@
 package app
 
-import "fmt"
+import (
+	"github.com/Laineros/goWebSite/pkg/main_pkg/pkg"
+)
 
 func Run() {
-	fmt.Println("Run initialization whole app")
+	pkg.PrintTest()
 }

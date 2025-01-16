@@ -1,3 +1,3 @@
-module github.com/Avksenchik/golang-project-template
+module github.com/Laineros/goWebSite
 
-go 1.19
+go 1.23.4
